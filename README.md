@@ -1,5 +1,5 @@
 <p align="center">
-  <"https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
+  <src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
 </p>
 
 # Dadoos
