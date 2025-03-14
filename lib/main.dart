@@ -8,7 +8,12 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.teal.shade700,
         appBar: AppBar(
-          title: Text('Dadoos'),
+          title: Text(
+              'Dadoos',
+              style: TextStyle(
+                color: Colors.white,
+              ),
+          ),
           backgroundColor: Colors.teal.shade900,
         ),
         body: Dadoos(),
